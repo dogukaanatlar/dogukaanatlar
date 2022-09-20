@@ -12,11 +12,11 @@ Welcome to my GitHub profile. I'm Dogukaan.
 
 
 
-[<img src="https://img.shields.io/badge/Gmail-dogukaanatlar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=red" />][gmail]
-[<img src="https://img.shields.io/badge/LinkedIn-@idogukaanatlar-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue" />][linkedin]
-[<img src="https://komarev.com/ghpvc/?username=dogukaanatlar&color=brightgreen&style=flat-square" height="28"/>][profile]
+[<img title="GMail" src="https://img.shields.io/badge/Gmail-dogukaanatlar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=red" />][gmail]
+[<img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@idogukaanatlar-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue" />][linkedin]
+[<img title=":)" src="https://komarev.com/ghpvc/?username=dogukaanatlar&color=brightgreen&style=flat-square" height="28"/>][profile]
 
-<img align='right' height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/android.svg" />
+<img title="I'm hiding here :P" align='right' height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/android.svg" />
 
 [linkedin]:https://www.linkedin.com/in/idogukaanatlar/
 [gmail]:mailto:<dogukaanatlar@gmail.com>
