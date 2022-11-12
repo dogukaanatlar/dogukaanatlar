@@ -2,6 +2,8 @@
 
 # Hello 👋
 Welcome to my GitHub profile. I'm Dogukaan.
+
+I am an Electrical-Electronics Engineer.
 ## 👾 Abilities: 
 <p align="left">
 <img title="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
