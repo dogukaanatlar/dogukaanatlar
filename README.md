@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats-ruby-one.vercel.app/api?username=dogukaanatlar&show_icons=true&theme=panda" witdh="450" height="160">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dogukaanatlar&show_icons=true&theme=panda" witdh="450" height="160">
 
 # Hello 👋
 Welcome to my GitHub profile. I'm Dogukaan.
